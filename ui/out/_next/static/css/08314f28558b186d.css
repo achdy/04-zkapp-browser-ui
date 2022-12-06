@@ -167,6 +167,8 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg1.8eee7d77.png);
+	background-repeat: no-repeat;
+	background-size: cover;
 	position: relative;	
 	width: 900px;
 	height: 600px;
@@ -208,7 +210,7 @@ a {
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 335px;
+	left: 390px;
 	top: 250px;
 }
 
@@ -746,11 +748,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.e889e0a8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	left: 280px;
-	top: 600px;
+	top: 560px;
 }
 
 .Home_dcIcon__DDy4R {
@@ -758,11 +760,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.df4e0ed2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	left: 380px;
-	top: 600px;
+	top: 560px;
 }
 
 .Home_gitIcon__L23x5 {
@@ -770,11 +772,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.9a058c6d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	left: 480px;
-	top: 600px;
+	top: 560px;
 }
 
 .Home_fbIcon__HDaE7 {
@@ -782,11 +784,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.a3d74d99.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	left: 580px;
-	top: 600px;
+	top: 560px;
 }
 
 @media (max-width: 600px) {
