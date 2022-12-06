@@ -139,10 +139,9 @@
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("../images/homepageImg1.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;	
+	position: relative;
+	width: 900px;
+	height: 680px;	
 	transform: scale(1);
 }
 
