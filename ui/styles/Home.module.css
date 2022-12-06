@@ -29,7 +29,7 @@
 	height: 145px;
 	position: absolute;
 	left: 200px;
-	top: 520px;
+	top: 560px;
 }
 
 .blank {
@@ -41,7 +41,7 @@
 	height: 145px;
 	position: absolute;
 	left: 200px;
-	top: 560px;
+	top: 600px;
 }
 
 .title a {
@@ -73,7 +73,7 @@
 }
 
 .code {
-  background: #f0f0f0;
+  background: #fafafa;
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
@@ -139,9 +139,9 @@
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	position: relative;
+	position: relative;	
 	width: 900px;
-	height: 680px;	
+	height: 600px;
 	transform: scale(1);
 }
 
@@ -156,8 +156,8 @@
 	background-image: url("../images/homepageImg.png");
 	background-repeat: no-repeat;
 	position: absolute;
-	width: 600px;
-	height: 600px;
+	width: 608px;
+	height: 500px;
 }
 
 .banner {
@@ -169,7 +169,7 @@
 	height: 142px;
 	position: absolute;
 	left: 250px;
-	top: 120px;
+	top: 150px;
 }
 
 .banner2 {
@@ -177,11 +177,11 @@
 	background-image: url("../images/icon.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	align-items: center;
-	width: 70px;
+	width: 250px;
 	height: 70px;
 	position: absolute;
-	top: 250px;
+	left: 335px;
+	top: 310px;
 }
 
 .connectBtn {
@@ -193,7 +193,7 @@
 	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 350px;
+	top: 450px;
 }
 
 .connectBtn:hover {
@@ -205,7 +205,7 @@
 	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 350px;
+	top: 450px;
 }
 
 .connectBtn:active {
@@ -217,7 +217,7 @@
 	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 350px;
+	top: 450px;
 }
 
 .loadingBtn {
@@ -229,7 +229,7 @@
 	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 350px;
+	top: 450px;
 }
 
 .loading {
@@ -309,11 +309,11 @@
 	background-image: url("../images/succes.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 120px;
-	height: 120px;
+	width: 180px;
+	height: 180px;
 	position: absolute;
 	left: 370px;
-	top: 100px;
+	top: 120px;
 }
 
 .statusTxt {
@@ -441,7 +441,7 @@
 	height: 73px;
 	position: absolute;
 	left: 250px;
-	top: 300px;
+	top: 400px;
 }
 
 .sendBtn:hover {
@@ -453,7 +453,7 @@
 	height: 73px;
 	position: absolute;
 	left: 250px;
-	top: 300px;
+	top: 400px;
 }
 
 .sendBtn:active {
@@ -465,7 +465,7 @@
 	height: 73px;
 	position: absolute;
 	left: 250px;
-	top: 300px;
+	top: 400px;
 }
 
 .sendBtnDisable {
@@ -477,7 +477,7 @@
 	height: 73px;
 	position: absolute;
 	left: 250px;
-	top: 300px;
+	top: 400px;
 }
 
 .getBtn {
@@ -489,7 +489,7 @@
 	height: 73px;
 	position: absolute;
 	left: 510px;
-	top: 300px;
+	top: 400px;
 }
 
 .getBtn:hover {
@@ -501,7 +501,7 @@
 	height: 73px;
 	position: absolute;
 	left: 510px;
-	top: 300px;
+	top: 400px;
 }
 
 .getBtn:active {
@@ -513,7 +513,7 @@
 	height: 73px;
 	position: absolute;
 	left: 510px;
-	top: 300px;
+	top: 400px;
 }
 
 .getBtnDisable {
@@ -525,7 +525,7 @@
 	height: 73px;
 	position: absolute;
 	left: 510px;
-	top: 300px;
+	top: 400px;
 }
 
 .txtState {
@@ -722,11 +722,11 @@
 	background-image: url("../images/teleicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
-	height: 50px;
+	width: 90px;
+	height: 70px;
 	position: absolute;
-	left: 330px;
-	top: 560px;
+	left: 280px;
+	top: 600px;
 }
 
 .dcIcon {
@@ -734,23 +734,11 @@
 	background-image: url("../images/dcicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
-	height: 50px;
+	width: 90px;
+	height: 70px;
 	position: absolute;
-	left: 430px;
-	top: 560px;
-}
-
-.gitIcon {
-	display: block;
-	background-image: url("../images/giticon1.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 70px;
-	height: 50px;
-	position: absolute;
-	left: 530px;
-	top: 560px;
+	left: 380px;
+	top: 600px;
 }
 
 .fbIcon {
@@ -758,12 +746,25 @@
 	background-image: url("../images/fbicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 70px;
-	height: 50px;
+	width: 90px;
+	height: 70px;
 	position: absolute;
-	left: 600px;
-	top: 560px;
+	left: 480px;
+	top: 600px;
 }
+
+.gitIcon {
+	display: block;
+	background-image: url("../images/giticon1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 90px;
+	height: 70px;
+	position: absolute;
+	left: 580px;
+	top: 600px;
+}
+
 
 @media (max-width: 600px) {
   .grid {
@@ -779,6 +780,8 @@
   }
   .code {
     background: #111;
+  }
+  .logo img {
   }
    
   
