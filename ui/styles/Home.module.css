@@ -140,9 +140,9 @@
 	margin-left: auto;
 	margin-right: auto;
 	background-image: url("../images/homepageImg1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
 	position: relative;	
-	width: 900px;
-	height: 600px;
 	transform: scale(1);
 }
 
@@ -178,10 +178,10 @@
 	background-image: url("../images/icon.png");
 	background-repeat: no-repeat;
 	background-size: cover;
+	align-items: center;
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 335px;
 	top: 250px;
 }
 
@@ -310,11 +310,11 @@
 	background-image: url("../images/succes.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 180px;
+	width: 120px;
+	height: 120px;
 	position: absolute;
 	left: 370px;
-	top: 120px;
+	top: 100px;
 }
 
 .statusTxt {
@@ -723,11 +723,11 @@
 	background-image: url("../images/teleicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 280px;
-	top: 600px;
+	left: 330px;
+	top: 560px;
 }
 
 .dcIcon {
@@ -735,11 +735,11 @@
 	background-image: url("../images/dcicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 380px;
-	top: 600px;
+	left: 430px;
+	top: 560px;
 }
 
 .gitIcon {
@@ -747,11 +747,11 @@
 	background-image: url("../images/giticon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 480px;
-	top: 600px;
+	left: 530px;
+	top: 560px;
 }
 
 .fbIcon {
@@ -759,11 +759,11 @@
 	background-image: url("../images/fbicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 70px;
+	height: 50px;
 	position: absolute;
-	left: 580px;
-	top: 600px;
+	left: 600px;
+	top: 560px;
 }
 
 @media (max-width: 600px) {

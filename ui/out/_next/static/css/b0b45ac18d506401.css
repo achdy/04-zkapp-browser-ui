@@ -170,8 +170,6 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;	
-	width: 900px;
-	height: 600px;
 	transform: scale(1);
 }
 
@@ -183,7 +181,7 @@ a {
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.13c69e57.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.142b8cd0.png);
 	background-repeat: no-repeat;
 	position: absolute;
 	width: 600px;
@@ -207,10 +205,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/icon.f80e6af3.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	align-items: center;
 	width: 70px;
 	height: 70px;
 	position: absolute;
-	left: 390px;
 	top: 250px;
 }
 
@@ -339,11 +337,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.b807379f.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 180px;
+	width: 120px;
+	height: 120px;
 	position: absolute;
 	left: 370px;
-	top: 120px;
+	top: 100px;
 }
 
 .Home_statusTxt__dVex8 {
@@ -748,10 +746,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.e889e0a8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
+	width: 70px;
 	height: 50px;
 	position: absolute;
-	left: 280px;
+	left: 330px;
 	top: 560px;
 }
 
@@ -760,10 +758,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.df4e0ed2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
+	width: 70px;
 	height: 50px;
 	position: absolute;
-	left: 380px;
+	left: 430px;
 	top: 560px;
 }
 
@@ -772,10 +770,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.9a058c6d.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
+	width: 70px;
 	height: 50px;
 	position: absolute;
-	left: 480px;
+	left: 530px;
 	top: 560px;
 }
 
@@ -784,10 +782,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.a3d74d99.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 50px;
+	width: 70px;
 	height: 50px;
 	position: absolute;
-	left: 580px;
+	left: 600px;
 	top: 560px;
 }
 
