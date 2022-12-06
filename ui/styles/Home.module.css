@@ -139,9 +139,6 @@
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("../images/homepageImg1.png");
-	background-repeat: no-repeat;
-	background-size: cover;
 	position: relative;	
 	transform: scale(1);
 }
@@ -178,10 +175,10 @@
 	background-image: url("../images/icon.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	align-items: center;
 	width: 70px;
 	height: 70px;
 	position: absolute;
+	left: 420px;
 	top: 250px;
 }
 
