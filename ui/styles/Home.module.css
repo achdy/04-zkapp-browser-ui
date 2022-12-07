@@ -41,7 +41,7 @@
 	height: 145px;
 	position: absolute;
 	left: 200px;
-	top: 600px;
+	top: 560px;
 }
 
 .title a {
@@ -156,8 +156,8 @@
 	background-image: url("../images/homepageImg.png");
 	background-repeat: no-repeat;
 	position: absolute;
-	width: 608px;
-	height: 500px;
+	width: 600px;
+	height: 600px;
 }
 
 .banner {
@@ -169,7 +169,7 @@
 	height: 142px;
 	position: absolute;
 	left: 250px;
-	top: 150px;
+	top: 100px;
 }
 
 .banner2 {
